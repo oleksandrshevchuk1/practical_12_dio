@@ -1,0 +1,43 @@
+{
+  "number": 12,
+  "source": "actual Android runtime and Request Catcher browser screenshots",
+  "reviewed": true,
+  "complete": true,
+  "screenshots": [
+    {
+      "file": "01-login-form.png",
+      "description": "Заповнена форма входу",
+      "source": "android/04.png"
+    },
+    {
+      "file": "requestcatcher/login.png",
+      "description": "Request Catcher: отриманий POST /login",
+      "source": "browser; Android integration request 10:54:37"
+    },
+    {
+      "file": "03-signup-form.png",
+      "description": "Заповнена форма реєстрації",
+      "source": "android/10.png"
+    },
+    {
+      "file": "requestcatcher/signup.png",
+      "description": "Request Catcher: отриманий POST /signup",
+      "source": "browser; Android integration request 10:54:41"
+    },
+    {
+      "file": "requestcatcher/signup-end.png",
+      "description": "Продовження JSON реєстрації з полем password",
+      "source": "same request after horizontal scroll"
+    },
+    {
+      "file": "05-reset-form.png",
+      "description": "Заповнена форма відновлення",
+      "source": "android/15.png"
+    },
+    {
+      "file": "requestcatcher/reset.png",
+      "description": "Request Catcher: отриманий POST /reset",
+      "source": "browser; Android integration request 10:54:45"
+    }
+  ]
+}

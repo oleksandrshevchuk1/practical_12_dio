@@ -1,0 +1,92 @@
+[
+  {
+    "seconds": 0.0,
+    "action": "Початковий стан застосунку",
+    "screenshot": "screenshots/android/01.png"
+  },
+  {
+    "seconds": 2.3,
+    "action": "Адреса власного RequestCatcher",
+    "screenshot": "screenshots/android/02.png"
+  },
+  {
+    "seconds": 23.9,
+    "action": "Email для входу",
+    "screenshot": "screenshots/android/03.png"
+  },
+  {
+    "seconds": 38.6,
+    "action": "Пароль для входу",
+    "screenshot": "screenshots/android/04.png"
+  },
+  {
+    "seconds": 52.6,
+    "action": "Натискання Login",
+    "screenshot": "screenshots/android/05.png"
+  },
+  {
+    "seconds": 60.9,
+    "action": "Перехід на реєстрацію",
+    "screenshot": "screenshots/android/06.png"
+  },
+  {
+    "seconds": 67.0,
+    "action": "Ім’я",
+    "screenshot": "screenshots/android/07.png"
+  },
+  {
+    "seconds": 82.0,
+    "action": "Email для реєстрації",
+    "screenshot": "screenshots/android/08.png"
+  },
+  {
+    "seconds": 99.1,
+    "action": "Пароль для реєстрації",
+    "screenshot": "screenshots/android/09.png"
+  },
+  {
+    "seconds": 112.7,
+    "action": "Адреса RequestCatcher",
+    "screenshot": "screenshots/android/10.png"
+  },
+  {
+    "seconds": 131.5,
+    "action": "Натискання Sign up",
+    "screenshot": "screenshots/android/11.png"
+  },
+  {
+    "seconds": 139.0,
+    "action": "Повернення до входу",
+    "screenshot": "screenshots/android/12.png"
+  },
+  {
+    "seconds": 144.6,
+    "action": "Перехід до відновлення",
+    "screenshot": "screenshots/android/13.png"
+  },
+  {
+    "seconds": 150.1,
+    "action": "Email для відновлення",
+    "screenshot": "screenshots/android/14.png"
+  },
+  {
+    "seconds": 164.8,
+    "action": "Адреса RequestCatcher",
+    "screenshot": "screenshots/android/15.png"
+  },
+  {
+    "seconds": 185.0,
+    "action": "Натискання Reset",
+    "screenshot": "screenshots/android/16.png"
+  },
+  {
+    "seconds": 192.7,
+    "action": "Повернення до входу",
+    "screenshot": "screenshots/android/17.png"
+  },
+  {
+    "seconds": 198.2,
+    "action": "Підсумковий стан",
+    "screenshot": "screenshots/android/18.png"
+  }
+]
